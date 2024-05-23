@@ -2,8 +2,8 @@ import React from 'react'
 
 export const Report = ({titre, soustitre1, soustitre2, soustitre3, desc, desc2, desc3}) => {
   return (
-    <div className='flex flex-col mt-9'>
-      <div className='shadow border-t-4 border-orange-400 rounded-2xl w-96 m-8 px-6 ' >
+    <div className='flex flex-col '>
+      <div className='shadow border-t-4 border-orange-400 rounded-2xl w-96 mx-8 px-6 ' >
         <h3 className='text-center border-b-2 border-[#6D3100] text-[#6D3100] py-2'>{titre}</h3>
 
         <div className='flex text-5xl'>

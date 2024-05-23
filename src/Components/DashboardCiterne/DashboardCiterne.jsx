@@ -183,8 +183,8 @@ function DashboardCiterne() {
                     <img className='mx-2' src={column} alt="" />
                     <img className='mx-2' src={pie} alt="" />
                 </div>
-                <h3 className='h-6 mt-6 border-b-2 border-[#6D3100]'>Consommation</h3>
-                <p className=' mt-6'>Citerne 1</p>
+                <h3 className='h-6 mt-6 px-9 border-b-2 border-[#6D3100]'>Consommation</h3>
+                <p className=' ml-6 mt-6'>Citerne 1</p>
                 <Btn text={'Exporter'} backgroundColor='#ED8B3B' color='fff'/>
 
             </div>
