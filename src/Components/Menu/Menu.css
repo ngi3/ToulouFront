@@ -1,0 +1,18 @@
+.menu{
+    display: block;
+    width: 72px;
+    height: 100% ;
+    background: #f1f1f1;
+}
+
+.logo{
+    margin: 19px 16px 56px;
+}
+.icone{
+    display: block;
+    margin: 28px 20px;
+}
+
+.icone img{
+    margin-bottom: 28px;
+}
